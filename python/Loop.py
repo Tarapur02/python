@@ -17,3 +17,7 @@
 # Use a loop to print all elements in a list.
 
 # Use a nested loop to print a right-angled triangle pattern of stars (*).
+
+x =("viresh","sudeepa","apple","pratik")
+for x in("viresh"):
+    print(x)
