@@ -50,3 +50,4 @@ markes.append(f7)
 markes.sort()
 print("the total marek is :",markes)
 
+
