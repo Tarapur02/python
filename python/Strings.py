@@ -36,4 +36,3 @@ print(a*3)
 
 a="hello"
 print(a[:])
-
